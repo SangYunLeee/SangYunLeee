@@ -12,6 +12,7 @@
 | 블로그 사이트 | https://www.enttolog.shop  |
 | 사이트 이미지 | <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/51e31e81-91ae-4b57-8fff-7ac3d400a03e" height="280px"> |
 | 링크 | [쿠버네티스 적용 후기](https://velog.io/@sororiri/k8s-%EC%9E%91%EC%84%B1-%EC%A7%84%ED%96%89%EC%A4%91-on-premise-K8S-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%81%ED%83%9C-%EA%B3%B5%EC%9C%A0)  : 토이 프로젝트를 온프레미스 쿠버네티스로 배포한 후기입니다. |
+| 링크 | [백엔드 프로젝트 후기](https://velog.io/@sororiri/%EB%B2%A1%EC%97%94%EB%93%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-gvzjh5tf) : `Node.js` 로 구현했던 백엔드 프로젝트 후기입니다. |
 
 현재는 (2023. 11.14) 는 AWS 자격증 취득을 우선적으로 진행하고 있습니다.
 
