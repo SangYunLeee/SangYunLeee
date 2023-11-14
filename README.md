@@ -14,10 +14,6 @@
 | 링크 | [쿠버네티스 적용 후기](https://velog.io/@sororiri/k8s-%EC%9E%91%EC%84%B1-%EC%A7%84%ED%96%89%EC%A4%91-on-premise-K8S-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%81%ED%83%9C-%EA%B3%B5%EC%9C%A0)  : 토이 프로젝트를 온프레미스 쿠버네티스로 배포한 후기입니다. |
 | 링크 | [백엔드 프로젝트 후기](https://velog.io/@sororiri/%EB%B2%A1%EC%97%94%EB%93%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-gvzjh5tf) : `Node.js` 로 구현했던 백엔드 프로젝트 후기입니다. |
 
-현재는 (2023. 11.14) 는 AWS 자격증 취득을 우선적으로 진행하고 있습니다.
-
-저에 대해 관심이 있으시다면, 아래 정보를 통해 확인하실 수 있습니다.
-
 |  | 링크 | 
 | -------- | -------- |
 | Notion | https://www.notion.so/DevOps-Engineer-b77735f1fe574271b3495719f0e26b5a  |
@@ -26,5 +22,5 @@
 
 ## 자격증
 | CKA | CKAD | Terraform Associate | 
-|-----|-----------| ------| 
-| <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/5ab6fde8-8e99-4e6e-b9c5-2713e303afb9" height="170px"> | <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/8ac64eab-b9cb-453e-86d6-506a22b6f8df" height="180px"> |  <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/fe65f8ca-20a0-443c-8ef0-6e556903b99b" height="160px"> |
+|-----|-----------| :------: | 
+| <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/5ab6fde8-8e99-4e6e-b9c5-2713e303afb9" height="100px"> | <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/8ac64eab-b9cb-453e-86d6-506a22b6f8df" height="110px"> |  <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/fe65f8ca-20a0-443c-8ef0-6e556903b99b" height="110px"> |
