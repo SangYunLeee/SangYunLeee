@@ -4,6 +4,9 @@
 
 [나의 개발 앤생 로그](https://velog.io/@sororiri/%EA%B0%9C%EB%B0%9C-%EC%9D%B8%EC%83%9D-%EA%B8%B0%EB%A1%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%87%B4%EC%82%AC%ED%95%98%EA%B3%A0-%EB%8B%A4%EC%8B%9C-%EA%B5%AC%EC%A7%81%EC%A4%91) : 제가 개발을 하게 된 계기와 현재에 대해서 쓰고 있습니다.
 
+## 경력
+네비게이션 GUI 개발 (C++, Qt):  2018.10 ~ 2022.7
+
 ## 토이 프로젝트
 |  | 링크 | 
 | :--------: | -------- |
@@ -14,7 +17,7 @@
 | 백엔드 | [백엔드 프로젝트 후기](https://velog.io/@sororiri/%EB%B2%A1%EC%97%94%EB%93%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-gvzjh5tf) : `Node.js` 로 구현했던 백엔드 프로젝트 후기입니다. |
 |  기술     | Typescript, Node.js, MySQL, Express |
 
-
+## 개인 정보
 |  | 링크 | 
 | -------- | -------- |
 | Notion | https://www.notion.so/DevOps-Engineer-b77735f1fe574271b3495719f0e26b5a  |
