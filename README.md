@@ -10,7 +10,7 @@
 ## 토이 프로젝트
 |  | 링크 | 
 | :--------: | -------- |
-| 블로그 사이트 | https://www.enttolog.shop  |
+| 블로그 사이트 | https://www.entto.shop  |
 | 사이트 이미지 | <img src="https://github.com/SangYunLeee/SangYunLeee/assets/35091494/51e31e81-91ae-4b57-8fff-7ac3d400a03e" height="280px"> |
 | 인프라 | [쿠버네티스 적용 후기](https://velog.io/@sororiri/k8s-%EC%9E%91%EC%84%B1-%EC%A7%84%ED%96%89%EC%A4%91-on-premise-K8S-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%81%ED%83%9C-%EA%B3%B5%EC%9C%A0)  : 토이 프로젝트를 온프레미스 쿠버네티스로 배포한 후기입니다. |
 |  기술     | Kubernetes, ArgoCD, On-Premise  |
